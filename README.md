@@ -1,4 +1,5 @@
 # nodeJS skeleton
+[![Build Status](https://travis-ci.org/oesse/boot-node.svg?branch=master)](https://travis-ci.org/oesse/boot-node)
 
 This repository provides infrastructure to start a new nodeJS project and get off the ground running. It includes:
   * [babel](https://babeljs.io/): for the latest ES7+ features 

@@ -1,4 +1,6 @@
 # nodeJS skeleton
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/oesse/boot-node.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/oesse/boot-node.svg?branch=master)](https://travis-ci.org/oesse/boot-node)
 
 This repository provides infrastructure to start a new nodeJS project and get off the ground running. It includes:
